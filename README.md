@@ -1,6 +1,21 @@
-# 🩸 BloodLink - Smart Donor Finder Network
+<h1 align="center">🩸 BloodLink</h1>
+<p align="center">Smart Donor Finder Network</p>
 
-> Connecting lives, one drop at a time.
+<p align="center">
+  Connecting lives, one drop at a time.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Vite-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Auth-JWT-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 About the Project
 
 BloodLink is a full-stack web application that helps users find blood donors quickly during emergencies. It provides real-time donor availability, location-based search, and an interactive dashboard to connect donors and recipients efficiently.
 
@@ -18,30 +33,47 @@ BloodLink is a full-stack web application that helps users find blood donors qui
 
 ---
 
+## 🌐 Live Demo
+
+🚀 Coming Soon...
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="public/screenshots/dashboard.png" width="80%" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 - HTML, CSS, JavaScript
 - Tailwind CSS
 - Vite
 
-### Backend
+### ⚙️ Backend
 - Node.js
 - Express.js
 
-### Database
+### 🗄️ Database
 - MongoDB
 
-### Authentication
+### 🔐 Authentication
 - JWT (JSON Web Token)
 
 ---
 
 ## 📁 Project Structure
+
+
 blood-donation/
 │
 ├── node_modules/
 ├── public/
+│
 ├── src/
 │ ├── components/
 │ ├── pages/
@@ -63,11 +95,14 @@ blood-donation/
 ├── .gitignore
 └── README.md
 
+
 ---
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone the Repository
+### 1️⃣ Clone the Repository
+
+
 git clone https://github.com/govindchauhan45/blood-link.git
 
 cd blood-link
@@ -75,7 +110,7 @@ cd blood-link
 
 ---
 
-### 2. Install Dependencies
+### 2️⃣ Install Dependencies
 
 #### Frontend
 
@@ -91,7 +126,7 @@ cd ..
 
 ---
 
-### 3. Environment Variables
+### 3️⃣ Environment Variables
 
 Create a `.env` file inside the `server` folder:
 
@@ -103,15 +138,15 @@ PORT=5000
 
 ---
 
-### 4. Run the Application
+### 4️⃣ Run the Application
 
-#### Start Backend
+#### ▶️ Start Backend
 
 cd server
 npm start
 
 
-#### Start Frontend
+#### ▶️ Start Frontend
 
 npm run dev
 
@@ -128,24 +163,22 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-(Add your images inside `public/screenshots/`)
-
-
-public/screenshots/dashboard.png
-public/screenshots/search.png
-public/screenshots/map.png
-
-
----
-
 ## 🎯 Use Case
 
 - Emergency blood requirement  
 - Quick donor discovery  
 - Real-time availability tracking  
 - Centralized donor network  
+
+---
+
+## 💡 Why This Project?
+
+- Solves a real-world emergency problem  
+- Full-stack implementation  
+- Clean and modern UI  
+- Scalable backend structure  
+- Real-time interaction  
 
 ---
 
@@ -183,7 +216,7 @@ If you like this project, give it a ⭐ on GitHub!
 
 ## 👨‍💻 Author
 
-Shailendra Sahu  
+**Govind Singh**  
 GitHub: https://github.com/govindchauhan45  
 
 ---
